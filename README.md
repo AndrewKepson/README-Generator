@@ -1,4 +1,4 @@
-[Github All Releases] (https://img.shields.io/github/issues/AndrewKepson/README-Generator)
+https://img.shields.io/github/license/AndrewKepson/README-Generator?style=for-the-badge
 
 * The purpose of this project is to demonstrate the ability to collect user input from the command line and use that data to generate a README.md file for projects.
 
