@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 * The purpose of this project is to demonstrate the ability to collect user input from the command line and use that data to generate a README.md file for projects.
 
 ## Minimum Application Requirements
